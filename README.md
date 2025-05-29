@@ -1,0 +1,1 @@
+Basically it's a bourbon chat with your document Python script all you do is basically put whatever text you want inside of the source.text file and off you go just fire up the Python and it should be good to go
